@@ -6,46 +6,4 @@
   grid-template-areas:
   "h h"
   "n c";
-
 }
-.header {
-  margin: 3px;
-  grid-area:h;
-  background-color: cornflowerblue;
-}
-.header a {
-font-size:  35px;
-border-bottom-style:ridge;
-color: blue;
-position: absolute;
-text-shadow: rgb(75, 205, 0) 2px -2px;
-
-
-}
- .header img{
- max-width: 150px;
- margin-top: 3px;
- margin-left: 5px;
- margin-bottom: 5px;
-  border-radius: 10px;
-}
-.nav {
-  grid-area:n;
-  background-color: cornflowerblue;
-  
-  margin-left: 3px;
-  border: antiquewhite;
-}
-.content {
-  grid-area: c;
-  background-color: cornflowerblue;
-  margin-left: 3px;
-  margin-right: 3px;
-}
-.content img{
-  max-width: 800px;
-  margin-top: 5px;
-  margin-left: 5px;
-  margin-bottom: 5px;
-   border-radius: 10px;
- }

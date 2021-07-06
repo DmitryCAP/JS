@@ -1,0 +1,13 @@
+.profile {
+  grid-area: c;
+  background-color: cornflowerblue;
+  margin-left: 3px;
+  margin-right: 3px;
+}
+.profile img{
+  max-width: 800px;
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+   border-radius: 10px;
+ }
